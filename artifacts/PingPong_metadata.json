@@ -83,11 +83,11 @@
 	},
 	"sources": {
 		"pingpong.sol": {
-			"keccak256": "0xbc31b09959575d270e3a15a9bd08a6b6e4d076218b4e6c69d4ce589a823cdb1a",
+			"keccak256": "0x9b16d40f892545dbe71b786f2f14ca2339dee0f74d64c5e36b1bd9b8bd365590",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://81092a771369645b82567d4b58a0bb6e352f089cbc14fc58e2549e7a335d32e3",
-				"dweb:/ipfs/QmXsh2R4ifWt9b6FzLZPcxCLAiKYGiCWQf9ei2JjLQabYZ"
+				"bzz-raw://fb41439b5f5140e85539f488bea46c72a5db14ee956c5d7d69ca323d07c47dd0",
+				"dweb:/ipfs/QmZazkVZUr649vURWiAfArSF36ki191Z2nb4Jz2PFcmRvD"
 			]
 		}
 	},
